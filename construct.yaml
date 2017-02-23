@@ -1,0 +1,14 @@
+name: zegami_python_dependencies
+version: 1.8.1
+
+channels:
+  - https://s3-eu-west-1.amazonaws.com/conda.zegami.com/
+  - http://repo.continuum.io/pkgs/free/
+  - http://conda.anaconda.org/anaconda
+  - http://conda.anaconda.org/zegami
+  - https://conda.anaconda.org/conda-forge
+  - file://Z:/condachannel/      # [win]
+specs:
+  - conda
+  - python 3.5.2
+  - zegami-dependencies 1.8.1
