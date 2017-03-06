@@ -11,4 +11,4 @@ channels:
 specs:
   - conda
   - python 3.5.2
-  - zegami-dependencies 1.8.1
+  - zegami-dependencies 1.8.2
