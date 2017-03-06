@@ -1,5 +1,5 @@
 name: zegami_python_dependencies
-version: 1.8.1
+version: 1.8.2
 
 channels:
   - https://s3-eu-west-1.amazonaws.com/conda.zegami.com/
