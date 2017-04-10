@@ -1,6 +1,6 @@
 package:
     name: zegami-dependencies
-    version: '1.8.2'
+    version: '1.8.3'
 source:
     git_url:  https://github.com/zegami/zegami-dependencies.git
 build:
@@ -56,9 +56,12 @@ requirements:
         - xlrd 1.0.0
         - pandas 0.18.1
         - inflection 0.3.1
-
+        - libiconv 1.14
+        - flask-assets 0.12
     run:
         - python 3.5.2
+        - flask-assets 0.12
+        - libiconv 1.14
         - pillow-simd 3.4
         - nomkl                            #    [not win]
         - colorama 0.3.7
