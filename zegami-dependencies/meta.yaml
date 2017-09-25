@@ -13,7 +13,7 @@ requirements:
         - pystache 0.5.4 py35_0
         - python 3.5.2
         - pillow-simd 3.4 py35_0
-        - nomkl  0 # [not win]
+        - nomkl 1.0 0 # [not win]
         - colorama 0.3.7 py35_0
         - jinja2 2.8 py35_1
         - numpy 1.11.1 py35_nomkl_0
@@ -24,7 +24,7 @@ requirements:
         - requests 2.9.1 py35_0
         - ujson 1.35 py35_0
         - werkzeug 0.11.10 py35_0
-        - scandir  py35_0
+        - scandir 1.5 py35_0
         - cchardet 1.0.0 py35_0
         - boto 2.43.0 py35_0
         - motor 1.1 py35_0
@@ -35,10 +35,10 @@ requirements:
         - flask 0.10.1 py35_0 # [win]
         - flask-cors 1.10.3 py35_0 # [win]
         - flask-compress 1.3.0 py35_0 # [win]
-        - pypyodbc  py35_0
-        - ldap3  py35_0
-        - boto3  py35_0
-        - pynacl  py35_0
+        - pypyodbc 1.3.3 py35_0
+        - ldap3 1.0.4 py35_0
+        - boto3 1.4.4 py35_0
+        - pynacl 1.0.1 py35_0
         - cffi 1.6.0 py35_0
         - tifffile 0.9.0 np111py35_0
         - blinker 1.4 py35_0
@@ -65,7 +65,7 @@ requirements:
         - pystache 0.5.4 py35_0
         - python 3.5.2
         - pillow-simd 3.4 py35_0
-        - nomkl  0 # [not win]
+        - nomkl 1.0 0 # [not win]
         - colorama 0.3.7 py35_0
         - jinja2 2.8 py35_1
         - numpy 1.11.1 py35_nomkl_0
@@ -76,7 +76,7 @@ requirements:
         - requests 2.9.1 py35_0
         - ujson 1.35 py35_0
         - werkzeug 0.11.10 py35_0
-        - scandir  py35_0
+        - scandir 1.5 py35_0
         - cchardet 1.0.0 py35_0
         - boto 2.43.0 py35_0
         - motor 1.1 py35_0
@@ -87,10 +87,10 @@ requirements:
         - flask 0.10.1 py35_0 # [win]
         - flask-cors 1.10.3 py35_0 # [win]
         - flask-compress 1.3.0 py35_0 # [win]
-        - pypyodbc  py35_0
-        - ldap3  py35_0
-        - boto3  py35_0
-        - pynacl  py35_0
+        - pypyodbc 1.3.3 py35_0
+        - ldap3 1.0.4 py35_0
+        - boto3 1.4.4 py35_0
+        - pynacl 1.0.1 py35_0
         - cffi 1.6.0 py35_0
         - tifffile 0.9.0 np111py35_0
         - blinker 1.4 py35_0
